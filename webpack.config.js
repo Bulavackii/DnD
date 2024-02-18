@@ -12,11 +12,11 @@ module.exports = {
   devServer: {
     historyApiFallback: true,
     static: {
-      directory: path.resolve(__dirname, 'dist'), 
+      directory: path.resolve(__dirname, 'dist'),
     },
     open: true,
     compress: true,
-    port: 9000
+    port: 9000,
   },
   module: {
     rules: [
