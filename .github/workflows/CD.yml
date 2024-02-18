@@ -1,4 +1,4 @@
-name: DnD
+name: DnD 1.0
 
 on: [push, pull_request]
 
